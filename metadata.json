@@ -1,0 +1,7 @@
+{
+  "name": " Copy of Interview Copilot ndh2",
+  "description": "A real-time AI interview assistant that listens to questions and suggests answers based on your resume.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
